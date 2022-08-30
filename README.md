@@ -13,21 +13,21 @@ With marvelous Windows 11 Installation Media Creation Tool, you could upgrade yo
 
 	a. Connect the prepared USB with your PC. Download the Windows 11 media creation tool to make a bootable USB.
 	b. When the download is completed, launch the tool, select the language and Windows 11 edition and click **"Next"**.
-	c. In **"Windows 11 Setup"** window, choose **"USB flash drive"** option and select **"Next"**.
+	c. In **Windows 11 Setup** window, choose **"USB flash drive"** option and select **"Next"**.
 	d. Select the USB flash drive and start the download process.
 
 Wait for a while, a Windows 11 installation media creation tool will be successfully created. Now, you can follow the Part 2 to begin Windows 11 installation.
 
 ### Part 2. Perform clean install Windows 11
 
-	a. Insert the USB to you computer and restart it. When entering the BIOS/UEFI interface, move the USB to the first in the boot sequence list.
-	b. Restart the computer again, and your computer will boot from the USB.
-	c. Then you will see the Windows 11 installation interface. Select the correct parameters and click "Next".
-	d. Click the **"Install now"**.
-	e. Now, please enter your product key. If not, please click **"I don't have a product key"** to skip it.
-	f. Select an edition you plan on installing and hit **"Next"**.
-	g. In the new window, read carefully and select **"Custom: Install Windows only(advanced)"**.
-	h. Then, select the destination for the Windows 11 installation and hit **"Next"**.
+	1. Insert the USB to you computer and restart it. When entering the BIOS/UEFI interface, move the USB to the first in the boot sequence list.
+	2. Restart the computer again, and your computer will boot from the USB.
+	3. Then you will see the Windows 11 installation interface. Select the correct parameters and click "Next".
+	4. Click the **"Install now"**.
+	5. Now, please enter your product key. If not, please click **"I don't have a product key"** to skip it.
+	6. Select an edition you plan on installing and hit **"Next"**.
+	7. In the new window, read carefully and select **"Custom: Install Windows only(advanced)"**.
+	8. Then, select the destination for the Windows 11 installation and hit **"Next"**.
 
 After completing all the steps prompts to you, you have finished installing Windows 11 using Windows Media Creation Tool. Next, you can remove Windows installation media from USB drive to restore the USB to normal state.
 
